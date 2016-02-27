@@ -2,6 +2,8 @@ Simple • Static • Blog-aware
 
 # Jekyll Plugins 'n' Tools (Book Edition)
 
+by Ben Balter, Parker Moore, Jordon Bedwell, Sylvester Keil, Gerald Bauer, et al
+
 
 > **Note:** The book edition is still an early release and a work-in-progess.
 
